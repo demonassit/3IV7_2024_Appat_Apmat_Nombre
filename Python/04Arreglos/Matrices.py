@@ -19,7 +19,8 @@ def sumar_matriz(matriz1, matriz2):
         for j in range(3):
             
             fila.append(matriz1[i][j] + matriz2[i][j] )
-        matriz_suma.append(fila)
+        matriz_
+        suma.append(fila)
     return matriz_suma
 
 def imprimir_matriz(matriz):
