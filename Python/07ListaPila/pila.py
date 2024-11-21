@@ -26,3 +26,4 @@ def mostrar_pila(pila):
     if esta_vacia(pila):
         raise IndexError("Error no se puede mostrar, la pila esta vacia")
     return f"Pila Actual: {pila}"
+
